@@ -1,0 +1,19 @@
+{
+  "name": "f",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.6",
+    "socket.io": "^4.7.5",
+    "uuid": "^10.0.0"
+  }
+}
